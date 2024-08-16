@@ -1,6 +1,7 @@
 # Tableau Project: Airbnb Data Visualization
 
-<img width="1440" alt="Screenshot 2024-08-16 at 5 31 00 PM" src="https://github.com/user-attachments/assets/80fd82c9-3524-47c2-97d7-b61fd4f17e10">
+<img width="1440" alt="Screenshot 2024-08-16 at 5 39 04 PM" src="https://github.com/user-attachments/assets/9567c867-f50a-4a04-a9fa-073e4754315e">
+
 
 
 I'm excited to share my first Tableau project, where I explored and visualized data from Airbnb, a leading international platform for unique lodging experiences. 🌍
